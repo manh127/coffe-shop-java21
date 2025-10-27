@@ -1,0 +1,10 @@
+target/
+!target/*.jar
+.git/
+.idea/
+*.iml
+.DS_Store
+.env
+*.log
+node_modules/
+
